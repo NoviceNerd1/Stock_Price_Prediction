@@ -38,7 +38,6 @@ Implements a web application using Dash to provide an interactive interface for 
 
 1) Clone the repository:
 git clone https://github.com/yourusername/stock_price_prediction.git
-<br>
 cd stock_price_prediction
 
 2)Install the required packages:
